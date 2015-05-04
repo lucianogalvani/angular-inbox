@@ -1,0 +1,14 @@
+{
+  "name": "angular-inbox",
+  "version": "1.0.0",
+  "description": "AngularJS inbox app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luciano Galvani",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
